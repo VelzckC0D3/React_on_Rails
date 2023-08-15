@@ -7,7 +7,7 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 Message.create(greeting: 'Hello, world!')
-Message.create(greeting: 'Hey, Heya or Hey there!')
+Message.create(greeting: 'Hello, React on Rails!')
 Message.create(greeting: 'Its good to see you')
-Message.create(greeting: 'Howdy!')
+Message.create(greeting: 'How you doing!')
 Message.create(greeting: 'Hi, there!')
