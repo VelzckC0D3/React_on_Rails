@@ -13,7 +13,6 @@ function Greeting() {
 
     return (
       <div>
-        <h1> React on Rails </h1>
         <h2>{message.greeting}</h2>
       </div>
     )
